@@ -1,0 +1,14 @@
+{
+    "5": {
+        "TradingBotV3": "0xab3fc5eAd56b9916c715119ac5f551CC3aBe2709",
+        "WETH": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "LINK": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+        "RobotNFT": "0x28B515e0E5e0ace337D43ef29ebA3F167947C4e5"
+    },
+    "80001": {
+        "TradingBotV3": "0xD12F9fD7b503603C972FFCD697959BeEA7CDFeb9",
+        "WMATIC": "0x9c3c9283d3e44854697cd22d3faa240cfb032889",
+        "LINK": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+        "RobotNFT": ""
+    }
+}
